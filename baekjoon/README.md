@@ -22,4 +22,5 @@
 | 25.09.16. | 2109 | G3 | #greedy #priority_queue |
 | 25.09.16. | 4937 | S2 | #math |
 | 25.09.17. | 15686 | G5 | #brute_force #backtracking |
+| 25.09.18. | 2667 | S1 | #graph #dfs #bfs |
 | 25.09.18. | 2057 | S5 | #math #greedy |
