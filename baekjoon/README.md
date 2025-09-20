@@ -24,3 +24,5 @@
 | 25.09.17. | 15686 | G5 | #brute_force #backtracking |
 | 25.09.18. | 2667 | S1 | #graph #dfs #bfs |
 | 25.09.18. | 2057 | S5 | #math #greedy |
+| 25.09.19. | 15565 | S1 | #two_pointer #sliding_window |
+| 25.09.19. | 10190 | S5 | #string |
