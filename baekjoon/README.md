@@ -27,3 +27,4 @@
 | 25.09.19. | 15565 | S1 | #two_pointer #sliding_window |
 | 25.09.19. | 10190 | S5 | #string |
 | 25.09.20. | 23731 | S4 | #math |
+| 25.09.21. | 14384 | S3 | #math | #greedy #stack #string |
