@@ -31,3 +31,5 @@
 | 25.09.22. | 14011 | S3 | #greedy |
 | 25.09.23. | 21737 | S1 | #greedy #string |
 | 25.09.24. | 20363 | S4 | #math #greedy |
+| 25.09.25. | 2579 | S3 | #dynamic_programming |
+| 25.09.26. | 6851 | S3 | #hash #sort |
