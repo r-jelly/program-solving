@@ -33,3 +33,4 @@
 | 25.09.24. | 20363 | S4 | #math #greedy |
 | 25.09.25. | 2579 | S3 | #dynamic_programming |
 | 25.09.26. | 6851 | S3 | #hash #sort |
+| 25.09.27. | 25212 | S2 | #brute_force |
