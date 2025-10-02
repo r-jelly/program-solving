@@ -1,6 +1,6 @@
 '''
 Level: S3
-Time: 
+Time: 12m49s
 '''
 
 import sys
