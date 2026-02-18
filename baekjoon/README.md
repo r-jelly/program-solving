@@ -39,3 +39,8 @@
 | 25.10.01. | 13238 | S5 | #greedy |
 | 25.10.02. | 5390 | S3 | #hash |
 | 25.10.04. | 2823 | S2 | #graph |
+| 25.10.05. | 21395 | S1 | #brute_force #greedy |
+| 25.10.06. | 25039 | S3 | #sort #brute_force |
+| 25.10.08. | 1181 | S5 | #hash #string #sort |
+| 25.10.15. | 2621 | S3 | #implementation |
+| 25.10.17. | 5006 | S2 | #bfs |
